@@ -16,4 +16,4 @@
 
 ### Follow Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanpira&show_icons=true&theme=cobalt)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanpira&count_private=true&show_icons=true&theme=cobalt)
