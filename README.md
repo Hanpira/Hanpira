@@ -15,3 +15,5 @@
 ### Testing Documentation
 
 ### Follow Me
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanpira&show_icons=true&theme=cobalt)
