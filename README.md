@@ -13,6 +13,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
 ### Testing Documentation
+- [Checklists](https://github.com/hanpira/checklist)
+- [Test-Suites and Test-Cases](https://github.com/hanpira/test-cases)
+- [Bug-Reports](https://github.com/hanpira/bug-reports)
+- [SQL Queries](https://github.com/hanpira/SQL)
+- [Postman Collections](https://github.com/hanpira/postman)
 
 ### Follow Me
 
