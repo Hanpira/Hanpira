@@ -5,7 +5,7 @@
 
 ### About Me
 
-
+I’ve always being interested in IT as a way to make the society better and more accessible for everyone. I have strong background in medical science, participated in international conferences. I know how to cure people but I believe that I have more opportunities to benefit people by evolving IT.
 
 ### Tools and Language
 
