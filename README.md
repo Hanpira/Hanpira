@@ -5,6 +5,8 @@
 
 ### About Me
 
+
+
 ### Tools and Language
 
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -23,7 +25,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=css3&logoColor=1572b6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=c%2B%2B&logoColor=00599c)
-
+![Trello](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=trello&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=white)
 
 
@@ -37,6 +39,4 @@
 ### Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/hanlieta)
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/hanna-ramanenka/)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanpira&count_private=true&show_icons=true&theme=cobalt)
+[![Skype](https://img.shields.io/badge/Skype-090909?style=for-the-badge&logo=skype&logoColor=00AFF0)](https://join.skype.com/invite/zGXkQjA2S6jd)
